@@ -1,5 +1,4 @@
 # TheUnderGroundHive
-https://www.figma.com/board/G4BENMYSxWzQLDaMcZyNU2/The-Underground-Hive?node-id=0-1&t=usoYKLYVQA0Gg0oM-1
 
 [Download the release of v1.0.0 now!](https://github.com/Crevlm/TheUnderGroundHive/releases/tag/v1.0.0)
 
